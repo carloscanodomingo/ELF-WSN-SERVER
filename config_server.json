@@ -1,0 +1,18 @@
+{
+	"url": "http://localhost",
+	 "port": "8086",
+	 "org_id": "972309793c223d17",
+	 "bucket": "ADQ-Hoopoe",
+	"token":  "LQHd2VWNKGqgPbN340YiIqMbnIeage3JQocSu0_1qYWVqJPM-XnNAAeQcdRAdm0Jl0k75AMqV6JPOtIgiyCyFg==",
+"devices": 
+	{
+	    "40:06:A0:97:2C:E5": "Ext-Patch",
+	    "98:84:E3:F7:0C:B4": "Ext-Omni",
+	    "40:06:A0:97:30:3A": "HUMA",
+            "40:06:A0:97:6D:13": "Central",
+	    "40:06:A0:97:2A:64": "CITE-II_A",
+	    "98:F4:AB:21:22:34": "ESP-Ether",
+            "A4:CF:12:1F:10:74": "ESP-Int"
+	}
+}
+
